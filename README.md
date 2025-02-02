@@ -82,10 +82,7 @@ npm run dev
 ## Authors
 
 - [@YahiaSonbol](https://www.linkedin.com/in/yahia-sonbol/)
-- [@RamzyBakir](https://www.linkedin.com/in/ramzy-bakir/)
-- [@YoussefHazem](https://www.linkedin.com/in/youssefsharaawy/)
-- [@YoussefAhmed](https://www.linkedin.com/in/youssef-abou-elwaf/)
-- [@MahmoudElShikha](https://www.linkedin.com/in/mahmoud-elshikha/)
+
 
 
 
